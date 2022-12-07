@@ -1,0 +1,13 @@
+## WORKFLOW
+## run simulate.r beginning to end
+## run_file.r lines 12 -47 to regenerate individual confidence intervals
+## run_file.r lines 2 - 9 for intro plots
+## run_file.r lines 48 - 102 for generating true (maximum ) beta values
+## run_file.r lines 103 - 122 for coverage overall model
+## run_file.r lines 124 - 158 for histograms of beta distribution values
+## run_file.r lines 159 - 205 for ROC Curve distributions ( 100 made ) 
+
+####		NOTE			###	
+## To create more ROC Curves and to test at different seeds,
+## I decided to do plots in run_file.r
+## also, email said 3 files was the SUGGESTED size, not the required size

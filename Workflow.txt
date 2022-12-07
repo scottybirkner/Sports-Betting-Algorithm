@@ -1,0 +1,6 @@
+## WORKFLOW 
+Rscript simulate.r
+Rscript boostrap.r
+Rscript out_file.r
+## out_file.r 1-68 is for all of the models of the beta values
+## 71 - 74 represent creating the FPR/TPR model
